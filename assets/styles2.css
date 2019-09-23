@@ -1,0 +1,112 @@
+body {
+    background-image: url('media/earth-view-space.jpg'); 
+    background-repeat: no-repeat;
+
+}
+
+#doge{
+	background-image: url('media/doge-pattern.jpg'); 
+    background-repeat: no-repeat;
+} 
+
+#bacon{
+	background-image: url('media/bacon_high-res.jpg'); 
+    background-repeat: no-repeat;
+} 
+#rickroll{
+	background-image: url('media/rickroll.gif'); 
+    background-repeat: repeat;
+} 
+
+#wrapperDiv{
+    height: 850px;
+	width: 850px;
+	position:relative;
+	margin-top: 50px;
+	margin:auto;
+	background-color: white;
+	border: solid #000000 0px;
+} 
+
+#headerDiv{
+	width: 850px;
+	float: left;
+	background-color: black;
+	color: pink;
+	margin:auto;
+	padding:20px;
+	border: 2px solid #8AC007;
+}
+
+#navDiv{
+	height: 40px;
+	width: 850px;
+	float: left;
+	background-color: black;
+	padding: 20px;
+	border: 2px solid #8AC007;
+	
+}
+
+.buttDiv{
+	width: 140px;
+	height: 20px;
+    margin-top:auto;
+	margin-left:15px;
+    border: 3px solid;
+	border-radius:4px;
+    padding-left:2px;
+	display: inline-block;
+	
+	
+	
+}
+.spaaace{
+	position:absolute;
+	left: 10px;
+}
+.rickroll{
+	position:fixed;
+	left: 10px;
+}
+
+a:link {
+    color: #008000;
+}
+
+a:visited {
+    color: #008000;
+
+}
+
+a:hover {
+    color: red;
+
+}
+
+a:active {
+    color: #008000;
+
+}
+
+#bodyDiv{
+	
+	width: 850px;
+	float: left;
+	background-color: black;
+	padding: 20px;
+	border: 2px solid #8AC007;
+}
+footer{
+	
+	width: 850px;
+	float:left;
+	background-color: black;
+	color: white;
+	padding:20px;
+	border: 2px solid #8AC007;
+	display: inline-block;
+
+}
+
+/* Copyright © 2015 00-Tech Corp. All Rights Reserved. */
